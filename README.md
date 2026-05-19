@@ -25,12 +25,9 @@ Load                   Write the final dataset as a Delta table in Unity Catalog
 
 📂 Project Structure
 
-databricks-etl-pipeline/
-│
-├── notebooks/
-│   └── phase1_customer_etl.ipynb   # Main ETL notebook (Databricks)
-│
-└── README.md                        # You are here
+databricks-etl-pipeline
+- Notebooks - ETL with Python Geanerator.ipynb   # Main ETL notebook (Databricks)
+- README.md                        # You are here
 
 
 🛠️ Tech Stack
